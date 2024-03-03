@@ -1,0 +1,20 @@
+input[type=checkbox]:hover {
+ box-shadow:0px 0px 10px #1300ff;
+}   
+    
+form{
+    width: 100%;
+    padding:10px 10px;
+    margin: 5px 5px;
+    border-style:solid;
+    border-color: gray;
+    background-color:rgb(237, 235, 235);
+    
+}
+.checkboxes {
+    text-align:left;
+  }
+  
+.checkboxes input{
+    margin: 0 5px 0 40px;
+  }

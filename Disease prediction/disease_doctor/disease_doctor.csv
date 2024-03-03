@@ -1,0 +1,42 @@
+﻿S_No,Disease,Doctor
+1,Fungal infection,Dermatologist
+2,Allergy,Allergist
+3,GERD,Gastroenterologist
+4,Chronic cholestasis,Gastroenterologist
+5,Drug Reaction,Allergist
+6,Peptic ulcer disease,Gastroenterologist
+7,AIDS,Immunologist
+8,Diabetes,Endocrinologist
+9,Gastroenteritis,Gastroenterologist
+10,Bronchial Asthma,Pulmonologist
+11,Hypertension ,Cardiologist
+12,Migraine,Neurologist
+13,Cervical spondylosis,Orthopedic Surgeon
+14,Paralysis (brain hemorrhage),Emergency room
+15,Jaundice,Gastroenterologist
+16,Malaria,Infectious Disease Specialist
+17,Chicken pox,General Practitioner
+18,Dengue,General Practitioner
+19,Typhoid,General Practitioner
+20,hepatitis A,General Practitioner
+21,Hepatitis B,General Practitioner
+22,Hepatitis C,General Practitioner
+23,Hepatitis D,General Practitioner
+24,Hepatitis E,General Practitioner
+25,Alcoholic hepatitis,Gastroenterologist
+26,Tuberculosis,Pulmonologist
+27,Common Cold,General Practitioner
+28,Pneumonia,Pulmonologist
+29,Dimorphic hemmorhoids(piles),Gastroenterologist
+30,Heart attack,Emergency room
+31,Varicose veins,Vascular Specialist
+32,Hypothyroidism,Endocrinologist
+33,Hyperthyroidism,Endocrinologist
+34,Hypoglycemia,Endocrinologist
+35,Osteoarthristis,Orthopedic Surgeon
+36,Arthritis,Orthopedic Surgeon
+37,(vertigo) Paroymsal  Positional Vertigo,Otolaryngologist
+38,Acne,Dermatologist
+39,Urinary tract infection,Urologist
+40,Psoriasis,Dermatologist
+41,Impetigo,Dermatologist
